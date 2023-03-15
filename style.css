@@ -1,0 +1,44 @@
+h1{
+	color: red;
+	font-family: "Comic Sans MS";
+	text-align: center;
+}
+h2{
+	color: blue;
+	font-family: "Lucida Console";
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	font-size: 40px;
+	color: green;
+}
+.wiersz{
+	background-color: yellow;
+	color: purple;
+	font-weight: bold;
+}
+a:hover{
+	font-style: none;
+	text-decoration: line-through;
+	color: pink;
+	font-family: "Comic Sans MS";
+}
+a:visited{
+	color: orange;
+
+}
+a:active{
+	font-style: none;
+	text-decoration: underline;
+	color: blue;
+	font-size: 90px;
+	font-family: "Arial";
+}
+table, th, td {
+  border: 1px solid;
+  border-color: red;
+}
